@@ -33,4 +33,6 @@ application.yml
 
 # Project exclude paths
 .gradle
-.idea
+.idea!/CodingTest.iml
+/CodingTest.iml
+/.idea/
